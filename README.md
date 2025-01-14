@@ -1,6 +1,6 @@
 # NumPy CRUD Operations Walkthrough
 
-This README focuses on demonstrating **CRUD (Create, Read, Update, Delete)** operations in **NumPy** arrays through a Jupyter Notebook. The notebook showcases essential operations for working with numerical data efficiently.
+This README focuses on demonstrating **CRUD (Create, Read, Update, Delete)** operations in **NumPy** arrays through a Jupyter Notebook. The notebook showcases essential operations for working with numerical data efficiently and coverting them into numpy array.
 
 ---
 
